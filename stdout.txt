@@ -1,0 +1,22 @@
+
+------------------ change VNC password  ------------------
+
+------------------ start noVNC  ----------------------------
+
+
+------------------ start VNC server ------------------------
+remove old vnc locks to be a reattachable container
+start vncserver with param: VNC_COL_DEPTH=24, VNC_RESOLUTION=1920x1200
+...
+start window manager
+...
+
+
+------------------ VNC environment started -----------------
+
+VNCSERVER started on DISPLAY= :1 
+	=> connect via VNC viewer with 10.42.10.240:5901
+
+noVNC HTML client started:
+	=> connect via http://10.42.10.240:6901/?password=...
+

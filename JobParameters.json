@@ -1,0 +1,38 @@
+{
+    "siteVersion": 3,
+    "request": {
+        "application": {
+            "name": "ubuntu-xfce",
+            "version": "Jun2024"
+        },
+        "product": {
+            "id": "u1-gpu-1",
+            "category": "u1-gpu-h",
+            "provider": "ucloud"
+        },
+        "name": "FinalVersion",
+        "replicas": 1,
+        "parameters": {
+        },
+        "resources": [
+        ],
+        "timeAllocation": {
+            "hours": 2,
+            "minutes": 0,
+            "seconds": 0
+        },
+        "resolvedProduct": null,
+        "resolvedApplication": null,
+        "resolvedSupport": null,
+        "allowDuplicateJob": true,
+        "sshEnabled": false
+    },
+    "resolvedResources": {
+        "ingress": {
+        }
+    },
+    "machineType": {
+        "cpu": 20,
+        "memoryInGigs": 46
+    }
+}

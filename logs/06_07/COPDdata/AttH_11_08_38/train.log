@@ -1,0 +1,10 @@
+2024-06-07 11:08:38 INFO     Saving logs in: /work/FinalVersion (5056995)/logs/06_07/COPDdata/AttH_11_08_38
+2024-06-07 11:08:38 INFO     	 (135, 244, 135)
+2024-06-07 11:08:38 INFO     Total number of parameters 1355514
+2024-06-07 11:08:38 INFO     	 Start training
+2024-06-07 11:08:39 INFO     	 Epoch 0 | average train loss: 0.4496
+2024-06-07 11:08:39 INFO     	 Epoch 0 | average valid loss: 0.1357
+2024-06-07 11:08:39 INFO     	 Epoch 1 | average train loss: 0.1214
+2024-06-07 11:08:39 INFO     	 Epoch 1 | average valid loss: 0.0901
+2024-06-07 11:08:39 INFO     	 Epoch 2 | average train loss: 0.0864
+2024-06-07 11:08:39 INFO     	 Epoch 2 | average valid loss: 0.0859

@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./knowledge_graph_maker/knowledge_",
+        "./knowledge_graph_maker/knowledge_graph_maker"
+    ]
+}
